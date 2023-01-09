@@ -1,5 +1,5 @@
 # JavaProject
-Итоговый проект по Java на Ulearn
+Итоговый проект по Java на Ulearn 5 вариант
 
 1. Класс Earthquake, который хранит данные из csv-файла
 
